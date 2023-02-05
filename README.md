@@ -1,9 +1,6 @@
 # es-typescript-02
-second exercise with typescript 
 
+### Description:
+Creation of a withdrawal and deposit management form
 
-DESCRIZIONE:
-Esercizio in TypeScript
-Costruzione di un form di gestione prelievi e depositi
-
-NB: Trasferire su Live Server
+(Transfer to Live Server)
